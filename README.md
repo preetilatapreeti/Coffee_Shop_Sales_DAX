@@ -67,7 +67,7 @@ The interactive dashboard includes:
 ### Setup
 
 ```bash
-git clone [https://github.com/preetilatapreetiCoffee_shop_sales.git](https://github.com/preetilatapreeti/Coffee_Shop_Sales_DAX.git)
+git clone https://github.com/preetilatapreetiCoffee_shop_sales.git
 cd Coffee_shop_sales
 ```
 
